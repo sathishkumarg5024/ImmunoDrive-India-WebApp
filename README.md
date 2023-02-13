@@ -5,7 +5,7 @@ Novel approach to resolve Under-Vaccination/Non-Vaccination of children and prev
 # Repo Contributors ❤️
 
 1) Sarthak S Kumar <a href="https://github.com/SarthakSKumar">Visit Profile</a>
-2) Sathish Kumar G <a href="https://github.com/sathishkumarg5024">Visit Profile</a>
+2) Sathish Kumar G <a href="https://github.com/sathishkumarg5">Visit Profile</a>
 3) Satyam Kumar <a href="https://github.com/satyamksharma">Visit Profile</a>
 
 <hr>
